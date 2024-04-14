@@ -159,6 +159,9 @@ aside h3 {
 aside img {
 	padding-bottom: 1em;
 }
+#right {
+	order: 3;
+}
 
 /* the styles for the footer */
 footer {
